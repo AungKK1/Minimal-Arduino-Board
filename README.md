@@ -42,7 +42,7 @@ To design a compact, breadboard-friendly board using minimal components for an A
 
 - [`/gerbers`](./gerbers): Gerber files for manufacturing
 - [`/docs`](./docs): Schematic (PDF), board layout image
-- [`/bom`](./bom): Bill of Materials
+- [`/BOM`](./BOM): Bill of Materials
 
 > ⚠️ Prototype not yet fabricated. Designed in OrCAD for educational purposes under mentorship from Hasofu Academy.
 
