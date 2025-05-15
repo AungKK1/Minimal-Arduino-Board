@@ -40,7 +40,8 @@ To design a compact, breadboard-friendly board using minimal components for an A
 
 ## 📎 Files
 
-- [`/Gerber`](./Gerber and ODB++): Gerber files for manufacturing
+- [`/Gerber`](./Gerber): Gerber files for manufacturing
+- [`/ODB++`](./ODB++): Full manufacturing format
 - [`/Documents`](./Documents): Schematic (PDF), board layout image
 - [`/BOM`](./BOM): Bill of Materials
 
